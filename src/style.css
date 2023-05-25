@@ -1,0 +1,20 @@
+section {background-color: aqua ;
+display:grid;
+justify-content: center;
+align-content: center;
+margin:40px}
+
+
+button {color: brown;
+background-color: dimgray;
+margin-top: 10%;
+
+}
+
+p {background-color: aquamarine;
+    border-radius: 170px;
+}
+.ap {background-color: blueviolet;}
+
+
+.colum {background-color: black;}
